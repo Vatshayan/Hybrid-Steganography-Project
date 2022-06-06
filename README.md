@@ -1,14 +1,12 @@
 # AES-Steganography-Project
 AES and Steganography Combination Project for B.tech Final Year College Students
 
+### Youtube Explanation of Project : https://youtu.be/KAmrEceJllM
 
 
 
 
 
-
-______________________________________________________________________________________________________________
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 **You Can use this Beautiful Project for your college Project and get good marks too.**
 
@@ -28,4 +26,5 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 ### CSE Projects: [LINK](https://www.cse-projects.com)
 
 
-### FullMarksProjects
+### Youtube Explanation of Project : https://youtu.be/KAmrEceJllM
+
